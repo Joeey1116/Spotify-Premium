@@ -22,4 +22,4 @@ To install any iPA or this iPA:
 - For Free Dev Accounts, you are limited to 10 App ID's weekly, so be cautious on how many apps you install and most contain multiple app ID's in one app.
   CONGRATULATIONS, if you followed these steps correctly, you should now be able to successfully open your uploaded iPA!
 
-  Head over to [Releases](https://github.com/joeey1116/Spotify-Premium/releases) to download the iPA.
+  **Head over to [Releases](https://github.com/joeey1116/Spotify-Premium/releases) to download the iPA.**
