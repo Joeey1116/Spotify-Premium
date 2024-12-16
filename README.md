@@ -5,7 +5,7 @@ To download this app,
 - Download [AltStore](https://altstore.io) on your computer
 - Connect your phone to your computer via USB.
 - Once AltStore is installed on your computer, add it to your bottom right bar (Windows), or your top left bar (Mac).
-- Click on the diamond icon, then click 'Ibstall AltStore > [Your Mobile Device]' and then login with your Apple ID.
+- Click on the diamond icon, then click 'Install AltStore > [Your Mobile Device]' and then login with your Apple ID.
 - Once you login with your Apple ID, click 'OK' to any popups you may get.
 - Confirm you see AltStore installed on your mobile device, if so follow next step:
 - You should then recieve a popup on your phone after you try to open the app for the first time saying "Untrusted Developer" with your email, this is totally NORMAL.
@@ -21,3 +21,5 @@ To install any iPA or this iPA:
 - Once finished installing, you should then see the app on your list of apps, with the '7 days' button next to it, meaning you have to update the app every 7 days. (8NOTE: You have to connect your phone to your PC in order to update the iPA's otherwise you will get a 'A;tStore Not Found' error.
 - For Free Dev Accounts, you are limited to 10 App ID's weekly, so be cautious on how many apps you install and most contain multiple app ID's in one app.
   CONGRATULATIONS, if you followed these steps correctly, you should now be able to successfully open your uploaded iPA!
+
+  Head over to [Releases](https://github.com/joeey1116/Spotify-Premium/releases) to download the iPA.
